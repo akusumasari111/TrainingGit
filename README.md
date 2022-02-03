@@ -1,1 +1,3 @@
 TrainingGit
+
+- nomor1
